@@ -69,7 +69,7 @@ return (write(1, str, length));
 }
 /************************* PRINT PERCENT SIGN *************************/
 /**
-* print_percent - Prints a percent sign
+* print_percent - Prints a percentage sign
 * @types: Lista of arguments
 * @buffer: Buffer array to handle print
 * @flags: Calculates active flags
